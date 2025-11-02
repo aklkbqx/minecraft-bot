@@ -2,6 +2,10 @@
 
 This project provides a containerized Minecraft bot environment with a graphical interface accessible through your web browser using noVNC.
 
+minecraft-bot afk in server
+`note: but this is gui to high RAM and CPU usage`
+### `＊🖥️ recommend: CPU 4C 4T, RAM 6GB+`
+
 ## 🌟 Features
 
 - Ubuntu-based container with XFCE4 desktop environment
